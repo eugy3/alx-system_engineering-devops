@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Where_am_i: ${pwd}"
-
+pwd
